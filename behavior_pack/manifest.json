@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hello World Behavior Pack",
+    "description": "A Hello World mod for Minecraft Bedrock Edition — works locally, in Realms, and on Xbox.",
+    "uuid": "12340000-0000-4000-8000-000000000001",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "12340000-0000-4000-8000-000000000002",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.5.0"
+    },
+    {
+      "uuid": "12340000-0000-4000-8000-000000000003",
+      "version": [1, 0, 0]
+    }
+  ]
+}
