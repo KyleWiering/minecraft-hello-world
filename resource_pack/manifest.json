@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hello World Resource Pack",
+    "description": "Companion resource pack for the Hello World mod.",
+    "uuid": "12340000-0000-4000-8000-000000000003",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "12340000-0000-4000-8000-000000000004",
+      "version": [1, 0, 0]
+    }
+  ]
+}
