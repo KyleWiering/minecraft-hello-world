@@ -21,7 +21,7 @@ if (!fs.existsSync(DIST)) {
   fs.mkdirSync(DIST, { recursive: true });
 }
 
-const outPath = path.join(DIST, "hello-world.mcaddon");
+const outPath = path.join(DIST, "catmob-madness.mcaddon");
 const output = fs.createWriteStream(outPath);
 const archive = archiver("zip", { zlib: { level: 9 } });
 
