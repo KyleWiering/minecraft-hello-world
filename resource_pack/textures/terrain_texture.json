@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "catmob_madness",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "helloworld": {
+      "textures": "textures/blocks/helloworld"
+    }
+  }
+}
