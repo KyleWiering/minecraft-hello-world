@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Hello World Behavior Pack",
-    "description": "A Hello World mod for Minecraft Bedrock Edition — works locally, in Realms, and on Xbox.",
+    "name": "CatMob Madness Behavior Pack",
+    "description": "CatMob Madness v1 — every primary mob gets a cat skin. Works locally, in Realms, and on Xbox.",
     "uuid": "12340000-0000-4000-8000-000000000001",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]

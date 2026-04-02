@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Hello World Resource Pack",
-    "description": "Companion resource pack for the Hello World mod.",
+    "name": "CatMob Madness Resource Pack",
+    "description": "CatMob Madness v1 — cat-themed textures for every primary mob.",
     "uuid": "12340000-0000-4000-8000-000000000003",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
