@@ -3,7 +3,7 @@
   "header": {
     "name": "CatMob Madness Behavior Pack",
     "description": "CatMob Madness v1 — every primary mob gets a cat skin. Works locally, in Realms, and on Xbox.",
-    "uuid": "12340000-0000-4000-8000-000000000001",
+    "uuid": "8a2332fc-732d-477b-950f-3a2971f3ce55",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
@@ -11,7 +11,7 @@
     {
       "type": "script",
       "language": "javascript",
-      "uuid": "12340000-0000-4000-8000-000000000002",
+      "uuid": "6b44d4f3-2a82-4d46-9d75-54f4377c06a8",
       "version": [1, 0, 0],
       "entry": "scripts/main.js"
     }
@@ -22,7 +22,7 @@
       "version": "1.5.0"
     },
     {
-      "uuid": "12340000-0000-4000-8000-000000000003",
+      "uuid": "22a91f1d-c0a5-4c18-bcc1-533e791d1a94",
       "version": [1, 0, 0]
     }
   ]

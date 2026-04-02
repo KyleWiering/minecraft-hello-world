@@ -3,14 +3,14 @@
   "header": {
     "name": "CatMob Madness Resource Pack",
     "description": "CatMob Madness v1 — cat-themed textures for every primary mob.",
-    "uuid": "12340000-0000-4000-8000-000000000003",
+    "uuid": "22a91f1d-c0a5-4c18-bcc1-533e791d1a94",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "12340000-0000-4000-8000-000000000004",
+      "uuid": "59436d2e-e346-4e3c-b5d5-dd4d5e5c7b98",
       "version": [1, 0, 0]
     }
   ]
